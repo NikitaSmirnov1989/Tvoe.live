@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    outline: none;
+    box-sizing: border-box;
+}
+body{
+    background: black;
+}
+.wrapper{
+    width: 1440px;
+    margin: 0px auto;
+    background-color: #F7F7F7;
+    padding: 20px 0px;
+}
+.wrapper-block{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 36px;
+    
+}

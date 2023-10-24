@@ -1,0 +1,38 @@
+.menu{
+    width: 264px;
+}
+.tape{
+    width: 264px;
+    height: 56px;
+    padding: 12px 0px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+}
+.title{
+    background: transparent;
+}
+.img img{
+    background: transparent;
+}
+.tape:hover{
+    background: #262626;
+}
+.tape:hover .title{
+    color: #FFFFFF;
+}
+.tape:hover .img img{
+    stroke: white;
+}
+.tape:hover .img{
+    background: transparent;
+}
+.svg{
+    margin-right: 10px;
+    background: transparent;
+}
+.tape:hover path{
+    fill: #FF6B00;
+}
+
+

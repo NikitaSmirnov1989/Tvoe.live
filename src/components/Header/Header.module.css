@@ -1,0 +1,84 @@
+.header{
+    width: 100%;
+}
+.header img{
+    background: transparent;
+}
+
+.wrapper{
+    width: 1440px;
+    background: #FFFFFF;
+    height: 76px;
+    padding: 20px 36px;
+    border-radius: 0px, 0px 16px 16px;
+    margin: 0px auto;
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 34px;
+}
+.content{
+    display: flex;
+    justify-content: space-between;
+    width: 1184px;
+    height: 36px;
+}
+.chips{
+    display: flex;
+    justify-content: space-between;
+    width: 481px;
+    height: 36px;
+}
+.chip{
+    height: 36px;
+    padding: 12px;
+    border-radius: 40px;
+    background: rgb(226, 226, 226);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.img{
+    background: rgb(226, 226, 226);
+    display: flex;
+    align-items: center;
+}
+.title{
+    display: inline-block;
+    height: 16px;
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: 400;
+    text-align: center;
+    margin-left: 10px;
+    background: rgb(226, 226, 226);
+}
+.icons{
+    width: 84px;
+    height: 36px;
+    display: flex;
+    justify-content: space-between;
+}
+.icons div{
+    width: 36px;
+    height: 36px;
+    padding: 10px 10px;
+    border-radius: 45px;
+    background: #262626;
+}
+.icons div:hover{
+    background: #8f6c6c;
+}
+.icons div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+
